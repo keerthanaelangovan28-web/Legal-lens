@@ -1,0 +1,98 @@
+[
+  {
+    "section_id": "CPA_2",
+    "act_name": "Consumer Protection Act",
+    "act_year": 2019,
+    "section_number": "2",
+    "section_title": "Definitions",
+    "full_text": "Consumer means any person who buys any goods for a consideration which has been paid or promised or partly paid and partly promised... Unfair trade practice means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice...",
+    "plain_language": "A consumer is anyone who buys goods or services. Unfair trade practices like false advertising or selling defective goods are illegal.",
+    "crisis_tags": ["consumer_fraud"],
+    "states_applicable": ["all"],
+    "keywords": ["consumer", "unfair trade", "deceptive", "fraud"]
+  },
+  {
+    "section_id": "CPA_35",
+    "act_name": "Consumer Protection Act",
+    "act_year": 2019,
+    "section_number": "35",
+    "section_title": "Manner in which complaint shall be made",
+    "full_text": "A complaint, in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided, may be filed with a District Commission by the consumer...",
+    "plain_language": "You can file a formal complaint with the District Consumer Commission if you have been cheated or received poor service.",
+    "crisis_tags": ["consumer_fraud"],
+    "states_applicable": ["all"],
+    "keywords": ["complaint", "district commission", "consumer", "fraud"]
+  },
+  {
+    "section_id": "CPA_38",
+    "act_name": "Consumer Protection Act",
+    "act_year": 2019,
+    "section_number": "38",
+    "section_title": "Procedure on admission of complaint",
+    "full_text": "The District Commission shall, on admission of a complaint, if it relates to any goods, refer a copy of the admitted complaint to the opposite party mentioned in the complaint directing him to give his version of the case within a period of thirty days...",
+    "plain_language": "Once you file a complaint, the Consumer Commission will ask the seller to explain their side within 30 days.",
+    "crisis_tags": ["consumer_fraud"],
+    "states_applicable": ["all"],
+    "keywords": ["procedure", "complaint", "consumer", "seller"]
+  },
+  {
+    "section_id": "RERA_18",
+    "act_name": "Real Estate (Regulation and Development) Act",
+    "act_year": 2016,
+    "section_number": "18",
+    "section_title": "Return of amount and compensation",
+    "full_text": "If the promoter fails to complete or is unable to give possession of an apartment, plot or building, in accordance with the terms of the agreement for sale... he shall be liable on demand to the allottees, in case the allottee wishes to withdraw from the project, without prejudice to any other remedy available, to return the amount received by him in respect of that apartment, plot, building, as the case may be, with interest at such rate as may be prescribed in this behalf including compensation...",
+    "plain_language": "If a builder fails to give you possession of your home on time, you can get your money back with interest and compensation.",
+    "crisis_tags": ["consumer_fraud"],
+    "states_applicable": ["all"],
+    "keywords": ["rera", "builder", "possession", "refund"]
+  },
+  {
+    "section_id": "RERA_31",
+    "act_name": "Real Estate (Regulation and Development) Act",
+    "act_year": 2016,
+    "section_number": "31",
+    "section_title": "Filing of complaints with the Authority or the adjudicating officer",
+    "full_text": "Any aggrieved person may file a complaint with the Authority or the adjudicating officer, as the case may be, for any violation or contravention of the provisions of this Act or the rules and regulations made thereunder against any promoter, allottee or real estate agent, as the case may be.",
+    "plain_language": "You can file a complaint with the RERA authority if a builder or real estate agent breaks the rules or your agreement.",
+    "crisis_tags": ["consumer_fraud"],
+    "states_applicable": ["all"],
+    "keywords": ["rera", "complaint", "builder", "agent"]
+  },
+  {
+    "section_id": "IT_66C",
+    "act_name": "Information Technology Act",
+    "act_year": 2000,
+    "section_number": "66C",
+    "section_title": "Punishment for identity theft",
+    "full_text": "Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to rupees one lakh.",
+    "plain_language": "Using someone else's password or identity online for fraud is a crime punishable by up to three years in jail.",
+    "crisis_tags": ["consumer_fraud"],
+    "states_applicable": ["all"],
+    "keywords": ["identity theft", "online fraud", "password", "it act"]
+  },
+  {
+    "section_id": "RBI_Chargeback",
+    "act_name": "RBI Guidelines on Digital Payment Fraud",
+    "act_year": 2024,
+    "section_number": "Guidelines",
+    "section_title": "Customer protection in digital transactions",
+    "full_text": "RBI guidelines provide for zero or limited liability for customers in case of unauthorized electronic banking transactions if reported within a specific timeframe...",
+    "plain_language": "If you report an unauthorized online transaction to your bank within 3 days, you are generally not liable for the loss.",
+    "crisis_tags": ["consumer_fraud"],
+    "states_applicable": ["all"],
+    "keywords": ["rbi", "bank", "fraud", "chargeback"]
+  },
+  {
+    "section_id": "CPA_84",
+    "act_name": "Consumer Protection Act",
+    "act_year": 2019,
+    "section_number": "84",
+    "section_title": "Liability of product manufacturer",
+    "full_text": "A product manufacturer shall be liable in a product liability action, if the product contains a manufacturing defect; or the product is defective in design; or there is a deviation from manufacturing specifications...",
+    "plain_language": "A manufacturer is responsible if their product is defective, poorly designed, or doesn't match what was promised.",
+    "crisis_tags": ["consumer_fraud"],
+    "states_applicable": ["all"],
+    "keywords": ["manufacturer", "defective", "product", "liability"]
+  }
+]

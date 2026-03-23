@@ -1,0 +1,5 @@
+{
+  "name": "LegalLens",
+  "description": "Real-time AI legal rights co-pilot for Indian citizens. Instant legal protection in crisis situations.",
+  "requestFramePermissions": ["microphone"]
+}
