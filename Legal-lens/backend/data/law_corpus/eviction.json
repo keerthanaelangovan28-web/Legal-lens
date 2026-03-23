@@ -1,0 +1,122 @@
+[
+  {
+    "section_id": "TPA_106",
+    "act_name": "Transfer of Property Act",
+    "act_year": 1882,
+    "section_number": "106",
+    "section_title": "Duration of certain leases in absence of written contract or local usage",
+    "full_text": "In the absence of a contract or local law or usage to the contrary, a lease of immovable property for agricultural or manufacturing purposes shall be deemed to be a lease from year to year, terminable, on the part of either lessor or lessee, by six months' notice; and a lease of immovable property for any other purpose shall be deemed to be a lease from month to month, terminable, on the part of either lessor or lessee, by fifteen days' notice.",
+    "plain_language": "Unless you have a written contract saying otherwise, your landlord must give you 15 days' notice to end a month-to-month lease.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["all"],
+    "keywords": ["notice", "lease", "landlord", "eviction"]
+  },
+  {
+    "section_id": "TPA_108",
+    "act_name": "Transfer of Property Act",
+    "act_year": 1882,
+    "section_number": "108",
+    "section_title": "Rights and liabilities of lessor and lessee",
+    "full_text": "In the absence of a contract or local usage to the contrary, the lessor and the lessee of immovable property, as against one another, respectively, possess the rights and are subject to the liabilities mentioned in the rules next following...",
+    "plain_language": "Both you and your landlord have specific rights and duties. Your landlord must let you enjoy the property without interference if you pay rent.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["all"],
+    "keywords": ["rights", "liabilities", "landlord", "tenant"]
+  },
+  {
+    "section_id": "TN_Rent_10",
+    "act_name": "Tamil Nadu Buildings (Lease and Rent Control) Act",
+    "act_year": 1960,
+    "section_number": "10",
+    "section_title": "Eviction of tenants",
+    "full_text": "A tenant shall not be evicted whether in execution of a decree or otherwise except in accordance with the provisions of this section or sections 14 to 16...",
+    "plain_language": "In Tamil Nadu, a landlord can only evict you for specific reasons like non-payment of rent or if they need the property for themselves, following a legal process.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["Tamil Nadu"],
+    "keywords": ["eviction", "tamil nadu", "rent control", "landlord"]
+  },
+  {
+    "section_id": "MAH_Rent_16",
+    "act_name": "Maharashtra Rent Control Act",
+    "act_year": 1999,
+    "section_number": "16",
+    "section_title": "When landlord may recover possession",
+    "full_text": "Notwithstanding anything contained in this Act but subject to the provisions of section 25, a landlord shall be entitled to recover possession of any premises if the Court is satisfied...",
+    "plain_language": "In Maharashtra, a landlord can only take back possession of the property for specific legal reasons and after a court order.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["Maharashtra"],
+    "keywords": ["eviction", "maharashtra", "rent control", "landlord"]
+  },
+  {
+    "section_id": "KAR_Rent_21",
+    "act_name": "Karnataka Rent Control Act",
+    "act_year": 2001,
+    "section_number": "21",
+    "section_title": "Protection of tenants against eviction",
+    "full_text": "No order or decree for the recovery of possession of any premises shall be made by any Court, District Judge or the Controller in favour of the landlord against the tenant, whether under the Transfer of Property Act, 1882 or otherwise...",
+    "plain_language": "In Karnataka, you are protected from eviction unless the landlord proves specific grounds like non-payment of rent or misuse of property in court.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["Karnataka"],
+    "keywords": ["eviction", "karnataka", "rent control", "landlord"]
+  },
+  {
+    "section_id": "IPC_441",
+    "act_name": "Indian Penal Code",
+    "act_year": 1860,
+    "section_number": "441",
+    "section_title": "Criminal trespass",
+    "full_text": "Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property, or having lawfully entered into or upon such property, unlawfully remains there...",
+    "plain_language": "If your landlord enters your home without your permission or notice to harass or annoy you, it can be considered criminal trespass.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["all"],
+    "keywords": ["trespass", "landlord", "entry", "harassment"]
+  },
+  {
+    "section_id": "SRA_38",
+    "act_name": "Specific Relief Act",
+    "act_year": 1963,
+    "section_number": "38",
+    "section_title": "Perpetual injunction when granted",
+    "full_text": "Subject to the other provisions contained in or referred to by this Chapter, a perpetual injunction may be granted to the plaintiff to prevent the breach of an obligation existing in his favour...",
+    "plain_language": "You can ask a court for an injunction to stop your landlord from illegally evicting you or cutting off your water or electricity.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["all"],
+    "keywords": ["injunction", "stop", "eviction", "landlord"]
+  },
+  {
+    "section_id": "Const_300A",
+    "act_name": "Constitution of India",
+    "act_year": 1950,
+    "section_number": "Article 300A",
+    "section_title": "Persons not to be deprived of property save by authority of law",
+    "full_text": "No person shall be deprived of his property save by authority of law.",
+    "plain_language": "You cannot be forced out of your home or property except by following the proper legal process.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["all"],
+    "keywords": ["property", "law", "deprived", "rights"]
+  },
+  {
+    "section_id": "TPA_111",
+    "act_name": "Transfer of Property Act",
+    "act_year": 1882,
+    "section_number": "111",
+    "section_title": "Determination of lease",
+    "full_text": "A lease of immovable property determines: by efflux of the time limited thereby; where such time is limited conditionally on the happening of some event...",
+    "plain_language": "A lease only ends for specific reasons like the time period being over, or if you break a major rule in the contract.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["all"],
+    "keywords": ["lease", "end", "determination", "contract"]
+  },
+  {
+    "section_id": "TPA_114",
+    "act_name": "Transfer of Property Act",
+    "act_year": 1882,
+    "section_number": "114",
+    "section_title": "Relief against forfeiture for non-payment of rent",
+    "full_text": "Where a lease of immovable property has determined by forfeiture for non-payment of rent, and the lessor sues to eject the lessee, if, at the hearing of the suit, the lessee pays or tenders to the lessor the rent in arrear...",
+    "plain_language": "If your landlord tries to evict you for not paying rent, you can often stop the eviction by paying the overdue rent and costs in court.",
+    "crisis_tags": ["eviction"],
+    "states_applicable": ["all"],
+    "keywords": ["rent", "eviction", "payment", "relief"]
+  }
+]

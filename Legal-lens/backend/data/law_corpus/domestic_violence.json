@@ -1,0 +1,122 @@
+[
+  {
+    "section_id": "PWDVA_3",
+    "act_name": "Protection of Women from Domestic Violence Act",
+    "act_year": 2005,
+    "section_number": "3",
+    "section_title": "Definition of domestic violence",
+    "full_text": "Domestic violence includes any act, omission or commission or conduct of the respondent which harms or injures or endangers the health, safety, life, limb or well-being, whether mental or physical...",
+    "plain_language": "Domestic violence is any harm, injury, or threat to your health, safety, or well-being, whether physical, mental, or emotional.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["definition", "violence", "harm", "abuse"]
+  },
+  {
+    "section_id": "PWDVA_12",
+    "act_name": "Protection of Women from Domestic Violence Act",
+    "act_year": 2005,
+    "section_number": "12",
+    "section_title": "Application to Magistrate",
+    "full_text": "An aggrieved person or a Protection Officer or any other person on behalf of the aggrieved person may present an application to the Magistrate seeking one or more reliefs under this Act...",
+    "plain_language": "You or someone on your behalf can apply to a Magistrate for help and protection under this law.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["magistrate", "application", "relief", "protection"]
+  },
+  {
+    "section_id": "PWDVA_17",
+    "act_name": "Protection of Women from Domestic Violence Act",
+    "act_year": 2005,
+    "section_number": "17",
+    "section_title": "Right to reside in a shared household",
+    "full_text": "Every woman in a domestic relationship shall have the right to reside in the shared household, whether or not she has any right, title or beneficial interest in the same.",
+    "plain_language": "You have the right to stay in your shared home, even if you don't own it or have your name on the lease.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["residence", "shared household", "home", "stay"]
+  },
+  {
+    "section_id": "PWDVA_18",
+    "act_name": "Protection of Women from Domestic Violence Act",
+    "act_year": 2005,
+    "section_number": "18",
+    "section_title": "Protection orders",
+    "full_text": "The Magistrate may, after giving the aggrieved person and the respondent an opportunity of being heard and on being prima facie satisfied that domestic violence has taken place or is likely to take place, pass a protection order...",
+    "plain_language": "A Magistrate can issue a protection order to stop the abuser from hurting you or contacting you.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["protection order", "magistrate", "stop", "abuse"]
+  },
+  {
+    "section_id": "PWDVA_19",
+    "act_name": "Protection of Women from Domestic Violence Act",
+    "act_year": 2005,
+    "section_number": "19",
+    "section_title": "Residence orders",
+    "full_text": "While disposing of an application under sub-section (1) of section 12, the Magistrate may, on being satisfied that domestic violence has taken place, pass a residence order...",
+    "plain_language": "A Magistrate can order the abuser to leave the shared home or ensure you have a safe place to stay.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["residence order", "magistrate", "home", "stay"]
+  },
+  {
+    "section_id": "IPC_498A",
+    "act_name": "Indian Penal Code",
+    "act_year": 1860,
+    "section_number": "498A",
+    "section_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+    "full_text": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.",
+    "plain_language": "Cruelty or harassment by your husband or his family is a crime punishable by up to three years in jail.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["cruelty", "husband", "relative", "harassment"]
+  },
+  {
+    "section_id": "IPC_354",
+    "act_name": "Indian Penal Code",
+    "act_year": 1860,
+    "section_number": "354",
+    "section_title": "Assault or criminal force to woman with intent to outrage her modesty",
+    "full_text": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment...",
+    "plain_language": "Assaulting or using force against a woman is a serious crime punishable by jail time.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["assault", "force", "woman", "crime"]
+  },
+  {
+    "section_id": "BNS_85",
+    "act_name": "Bharatiya Nyaya Sanhita",
+    "act_year": 2023,
+    "section_number": "85",
+    "section_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+    "full_text": "New provision replacing IPC Section 498A, continuing to criminalize cruelty by husband or his family...",
+    "plain_language": "The new law (from 2024) continues to protect you from cruelty by your husband or his family.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["bns", "cruelty", "husband", "new law"]
+  },
+  {
+    "section_id": "PWDVA_20",
+    "act_name": "Protection of Women from Domestic Violence Act",
+    "act_year": 2005,
+    "section_number": "20",
+    "section_title": "Monetary reliefs",
+    "full_text": "While disposing of an application under sub-section (1) of section 12, the Magistrate may direct the respondent to pay monetary relief to meet the expenses incurred and losses suffered by the aggrieved person...",
+    "plain_language": "A Magistrate can order the abuser to pay you money for medical expenses, lost earnings, or other costs caused by the violence.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["money", "relief", "magistrate", "expenses"]
+  },
+  {
+    "section_id": "PWDVA_22",
+    "act_name": "Protection of Women from Domestic Violence Act",
+    "act_year": 2005,
+    "section_number": "22",
+    "section_title": "Compensation orders",
+    "full_text": "In addition to other reliefs as may be granted under this Act, the Magistrate may on an application being made by the aggrieved person, pass an order directing the respondent to pay compensation and damages for the injuries...",
+    "plain_language": "A Magistrate can order the abuser to pay you compensation for physical or emotional injuries caused by domestic violence.",
+    "crisis_tags": ["domestic_violence"],
+    "states_applicable": ["all"],
+    "keywords": ["compensation", "damages", "magistrate", "injuries"]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "scenario": "Police arrest without warrant at home",
+    "crisis_type": "police_detention",
+    "response": {
+      "crisis_type": "police_detention",
+      "jurisdiction_state": "All India",
+      "rights": [
+        {"description": "Right to know grounds of arrest", "section_number": "50", "act_name": "CrPC", "act_year": 1973},
+        {"description": "Right to consult a lawyer", "section_number": "41D", "act_name": "CrPC", "act_year": 1973},
+        {"description": "Right to be produced before Magistrate within 24 hours", "section_number": "57", "act_name": "CrPC", "act_year": 1973}
+      ],
+      "scripted_phrase": {"phrase": "I am invoking my right under Section 41D CrPC. I request to speak to a lawyer.", "language": "en"},
+      "confidence_score": 1.0,
+      "lawyer_available": true,
+      "offline_available": true
+    }
+  },
+  {
+    "scenario": "Police detention on the street",
+    "crisis_type": "police_detention",
+    "response": {
+      "crisis_type": "police_detention",
+      "jurisdiction_state": "All India",
+      "rights": [
+        {"description": "Right to clear identification of arresting officer", "section_number": "41B", "act_name": "CrPC", "act_year": 1973},
+        {"description": "Right to inform a relative about detention", "section_number": "50A", "act_name": "CrPC", "act_year": 1973},
+        {"description": "Right to life and personal liberty", "section_number": "Article 21", "act_name": "Constitution of India", "act_year": 1950}
+      ],
+      "scripted_phrase": {"phrase": "Please show your identification and prepare an arrest memo as per D.K. Basu guidelines.", "language": "en"},
+      "confidence_score": 1.0,
+      "lawyer_available": true,
+      "offline_available": true
+    }
+  },
+  {
+    "scenario": "Domestic violence by husband",
+    "crisis_type": "domestic_violence",
+    "response": {
+      "crisis_type": "domestic_violence",
+      "jurisdiction_state": "All India",
+      "rights": [
+        {"description": "Right to reside in shared household", "section_number": "17", "act_name": "PWDVA", "act_year": 2005},
+        {"description": "Right to protection orders against violence", "section_number": "18", "act_name": "PWDVA", "act_year": 2005},
+        {"description": "Right to file complaint for cruelty", "section_number": "498A", "act_name": "IPC", "act_year": 1860}
+      ],
+      "scripted_phrase": {"phrase": "I am seeking protection under the Domestic Violence Act. I have a right to stay in this house.", "language": "en"},
+      "confidence_score": 1.0,
+      "lawyer_available": true,
+      "offline_available": true
+    }
+  },
+  {
+    "scenario": "Illegal eviction by landlord without notice",
+    "crisis_type": "eviction",
+    "response": {
+      "crisis_type": "eviction",
+      "jurisdiction_state": "All India",
+      "rights": [
+        {"description": "Right to 15 days notice for month-to-month lease", "section_number": "106", "act_name": "Transfer of Property Act", "act_year": 1882},
+        {"description": "Protection against criminal trespass by landlord", "section_number": "441", "act_name": "IPC", "act_year": 1860},
+        {"description": "Right to injunction against illegal eviction", "section_number": "38", "act_name": "Specific Relief Act", "act_year": 1963}
+      ],
+      "scripted_phrase": {"phrase": "You cannot evict me without a court order and proper notice. This is criminal trespass.", "language": "en"},
+      "confidence_score": 1.0,
+      "lawyer_available": true,
+      "offline_available": true
+    }
+  },
+  {
+    "scenario": "Employer not paying salary for 2 months",
+    "crisis_type": "salary_theft",
+    "response": {
+      "crisis_type": "salary_theft",
+      "jurisdiction_state": "All India",
+      "rights": [
+        {"description": "Responsibility of employer to pay wages", "section_number": "3", "act_name": "Payment of Wages Act", "act_year": 1936},
+        {"description": "Right to receive payment by the 7th or 10th of the month", "section_number": "5", "act_name": "Payment of Wages Act", "act_year": 1936},
+        {"description": "Right to file claim for delayed wages", "section_number": "15", "act_name": "Payment of Wages Act", "act_year": 1936}
+      ],
+      "scripted_phrase": {"phrase": "I am entitled to my wages under the Payment of Wages Act. I will file a claim with the Labour Commissioner.", "language": "en"},
+      "confidence_score": 1.0,
+      "lawyer_available": true,
+      "offline_available": true
+    }
+  },
+  {
+    "scenario": "Online banking fraud / unauthorized transaction",
+    "crisis_type": "consumer_fraud",
+    "response": {
+      "crisis_type": "consumer_fraud",
+      "jurisdiction_state": "All India",
+      "rights": [
+        {"description": "Limited liability for unauthorized digital transactions", "section_number": "Guidelines", "act_name": "RBI Guidelines", "act_year": 2024},
+        {"description": "Protection against identity theft", "section_number": "66C", "act_name": "IT Act", "act_year": 2000},
+        {"description": "Right to file complaint with Consumer Commission", "section_number": "35", "act_name": "Consumer Protection Act", "act_year": 2019}
+      ],
+      "scripted_phrase": {"phrase": "I am reporting this unauthorized transaction within the RBI-mandated timeframe to ensure zero liability.", "language": "en"},
+      "confidence_score": 1.0,
+      "lawyer_available": true,
+      "offline_available": true
+    }
+  }
+]

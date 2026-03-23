@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Advocate Anil Deshmukh",
+    "district": "Mumbai",
+    "state": "Maharashtra",
+    "phone": "+91-98200-11100",
+    "whatsapp": "+91-98200-11100",
+    "nalsa_id": "MH-NALSA-2021-001",
+    "crisis_specializations": ["police_detention", "consumer_fraud", "domestic_violence"],
+    "available_hours": "9AM-6PM Mon-Sat"
+  },
+  {
+    "name": "Advocate Sneha Patil",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "phone": "+91-98201-22201",
+    "whatsapp": "+91-98201-22201",
+    "nalsa_id": "MH-NALSA-2021-002",
+    "crisis_specializations": ["domestic_violence", "salary_theft"],
+    "available_hours": "10AM-7PM Mon-Sat"
+  },
+  {
+    "name": "Advocate Ramkrishna Jadhav",
+    "district": "Nagpur",
+    "state": "Maharashtra",
+    "phone": "+91-98202-33302",
+    "whatsapp": "+91-98202-33302",
+    "nalsa_id": "MH-NALSA-2020-003",
+    "crisis_specializations": ["salary_theft", "eviction", "police_detention"],
+    "available_hours": "9AM-5PM Mon-Fri"
+  },
+  {
+    "name": "Advocate Meera Kulkarni",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "phone": "+91-98203-44403",
+    "whatsapp": "+91-98203-44403",
+    "nalsa_id": "MH-NALSA-2022-004",
+    "crisis_specializations": ["domestic_violence", "eviction", "consumer_fraud"],
+    "available_hours": "9AM-6PM Mon-Sat"
+  },
+  {
+    "name": "District Legal Services Authority Mumbai",
+    "district": "Mumbai",
+    "state": "Maharashtra",
+    "phone": "022-22620693",
+    "whatsapp": null,
+    "nalsa_id": "MH-DLSA-MUM",
+    "crisis_specializations": ["police_detention", "domestic_violence", "eviction", "salary_theft", "consumer_fraud"],
+    "available_hours": "10AM-5PM Mon-Fri"
+  }
+]

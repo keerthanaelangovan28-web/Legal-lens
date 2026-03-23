@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Advocate P. Karthikeyan",
+    "district": "Chennai",
+    "state": "Karnataka",
+    "phone": "+91-98400-11200",
+    "whatsapp": "+91-98400-11200",
+    "nalsa_id": "KA-NALSA-2021-001",
+    "crisis_specializations": ["police_detention", "domestic_violence", "consumer_fraud"],
+    "available_hours": "9AM-6PM Mon-Sat"
+  },
+  {
+    "name": "Advocate Priya Sharma",
+    "district": "Bengaluru",
+    "state": "Karnataka",
+    "phone": "+91-98441-22301",
+    "whatsapp": "+91-98441-22301",
+    "nalsa_id": "KA-NALSA-2021-002",
+    "crisis_specializations": ["domestic_violence", "eviction", "salary_theft"],
+    "available_hours": "10AM-7PM Mon-Sat"
+  },
+  {
+    "name": "Advocate Raju Naik",
+    "district": "Mysuru",
+    "state": "Karnataka",
+    "phone": "+91-98442-33402",
+    "whatsapp": "+91-98442-33402",
+    "nalsa_id": "KA-NALSA-2020-003",
+    "crisis_specializations": ["salary_theft", "consumer_fraud", "eviction"],
+    "available_hours": "9AM-5PM Mon-Fri"
+  },
+  {
+    "name": "Advocate Anjali Menon",
+    "district": "Mangaluru",
+    "state": "Karnataka",
+    "phone": "+91-98443-44503",
+    "whatsapp": "+91-98443-44503",
+    "nalsa_id": "KA-NALSA-2022-004",
+    "crisis_specializations": ["domestic_violence", "police_detention"],
+    "available_hours": "9AM-6PM Mon-Sat"
+  },
+  {
+    "name": "Advocate Venkatesh B.",
+    "district": "Hubballi",
+    "state": "Karnataka",
+    "phone": "+91-98444-55604",
+    "whatsapp": "+91-98444-55604",
+    "nalsa_id": "KA-NALSA-2020-005",
+    "crisis_specializations": ["police_detention", "salary_theft", "eviction"],
+    "available_hours": "10AM-6PM Mon-Sat"
+  },
+  {
+    "name": "District Legal Services Authority",
+    "district": "Bengaluru",
+    "state": "Karnataka",
+    "phone": "080-22210214",
+    "whatsapp": null,
+    "nalsa_id": "KA-DLSA-BLR",
+    "crisis_specializations": ["police_detention", "domestic_violence", "eviction", "salary_theft", "consumer_fraud"],
+    "available_hours": "10AM-5PM Mon-Fri"
+  }
+]

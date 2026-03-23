@@ -1,0 +1,122 @@
+[
+  {
+    "section_id": "PWA_3",
+    "act_name": "Payment of Wages Act",
+    "act_year": 1936,
+    "section_number": "3",
+    "section_title": "Responsibility for payment of wages",
+    "full_text": "Every employer shall be responsible for the payment to persons employed by him of all wages required to be paid under this Act...",
+    "plain_language": "Your employer is legally responsible for paying you all the wages you have earned.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["payment", "wages", "employer", "responsibility"]
+  },
+  {
+    "section_id": "PWA_4",
+    "act_name": "Payment of Wages Act",
+    "act_year": 1936,
+    "section_number": "4",
+    "section_title": "Fixation of wage-periods",
+    "full_text": "Every person responsible for the payment of wages under section 3 shall fix periods (in this Act referred to as wage-periods) in respect of which such wages shall be payable...",
+    "plain_language": "Your employer must set a regular pay period (like weekly or monthly) and pay you within that time.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["pay period", "wages", "time", "payment"]
+  },
+  {
+    "section_id": "PWA_5",
+    "act_name": "Payment of Wages Act",
+    "act_year": 1936,
+    "section_number": "5",
+    "section_title": "Time of payment of wages",
+    "full_text": "The wages of every person employed upon or in any railway, factory or industrial or other establishment upon or in which less than one thousand persons are employed, shall be paid before the expiry of the seventh day...",
+    "plain_language": "If your workplace has less than 1,000 workers, you must be paid by the 7th of the month. If more, by the 10th.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["time", "payment", "wages", "deadline"]
+  },
+  {
+    "section_id": "PWA_15",
+    "act_name": "Payment of Wages Act",
+    "act_year": 1936,
+    "section_number": "15",
+    "section_title": "Claims arising out of deductions from wages or delay in payment of wages",
+    "full_text": "Where contrary to the provisions of this Act any deduction has been made from the wages of an employed person, or any payment of wages has been delayed, such person himself, or any legal practitioner... may apply to such authority...",
+    "plain_language": "If your wages are delayed or deducted illegally, you can file a claim with the Labour Commissioner or a specific legal authority.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["claim", "deduction", "delay", "wages"]
+  },
+  {
+    "section_id": "MWA_12",
+    "act_name": "Minimum Wages Act",
+    "act_year": 1948,
+    "section_number": "12",
+    "section_title": "Payment of minimum rates of wages",
+    "full_text": "Where in respect of any scheduled employment a notification under section 5 is in force, the employer shall pay to every employee engaged in a scheduled employment under him wages at a rate not less than the minimum rate of wages...",
+    "plain_language": "Your employer must pay you at least the minimum wage set by the government for your type of work.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["minimum wage", "payment", "employer", "law"]
+  },
+  {
+    "section_id": "IDA_2A",
+    "act_name": "Industrial Disputes Act",
+    "act_year": 1947,
+    "section_number": "2A",
+    "section_title": "Dismissal, etc., of an individual workman to be deemed to be an industrial dispute",
+    "full_text": "Where any employer discharges, dismisses, retrenches or otherwise terminates the services of an individual workman, any dispute or difference between that workman and his employer connected with, or arising out of, such discharge, dismissal, retrenchment or termination shall be deemed to be an industrial dispute...",
+    "plain_language": "If you are fired or dismissed, any disagreement about your pay or termination is considered a legal dispute you can take to court.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["dispute", "dismissal", "termination", "wages"]
+  },
+  {
+    "section_id": "Labour_Complaint",
+    "act_name": "Labour Commissioner Procedure",
+    "act_year": 2024,
+    "section_number": "Procedure",
+    "section_title": "Administrative remedy for non-payment of wages",
+    "full_text": "Workers can file a complaint with the local Labour Commissioner for non-payment of wages, illegal deductions, or other labor law violations...",
+    "plain_language": "You can report your employer to the local Labour Commissioner if they are not paying you or are treating you unfairly.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["complaint", "labour commissioner", "report", "wages"]
+  },
+  {
+    "section_id": "PWA_7",
+    "act_name": "Payment of Wages Act",
+    "act_year": 1936,
+    "section_number": "7",
+    "section_title": "Deductions which may be made from wages",
+    "full_text": "Notwithstanding the provisions of sub-section (2) of section 47 of the Railways Act, 1989, the wages of an employed person shall be paid to him without deductions of any kind except those authorised by or under this Act...",
+    "plain_language": "Your employer can only deduct money from your wages for specific legal reasons like taxes or if you were absent from work.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["deduction", "wages", "illegal", "payment"]
+  },
+  {
+    "section_id": "MWA_20",
+    "act_name": "Minimum Wages Act",
+    "act_year": 1948,
+    "section_number": "20",
+    "section_title": "Claims",
+    "full_text": "The appropriate Government may, by notification in the Official Gazette, appoint any Commissioner for Workmen's Compensation or any officer of the Central Government... to be the Authority to hear and decide for any specified area all claims arising out of payment of less than the minimum rates of wages...",
+    "plain_language": "If you are being paid less than the minimum wage, you can file a claim with a government-appointed authority to get the money you are owed.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["claim", "minimum wage", "authority", "wages"]
+  },
+  {
+    "section_id": "IDA_33C",
+    "act_name": "Industrial Disputes Act",
+    "act_year": 1947,
+    "section_number": "33C",
+    "section_title": "Recovery of money due from an employer",
+    "full_text": "Where any money is due to a workman from an employer under a settlement or an award or under the provisions of Chapter VA or Chapter VB, the workman himself or any other person authorised by him in writing in this behalf, or, in the case of the death of the workman, his assignee or heirs may, without prejudice to any other mode of recovery, make an application to the appropriate Government for the recovery of the money due to him...",
+    "plain_language": "If your employer owes you money based on a court order or agreement, you can apply to the government to recover that money directly from them.",
+    "crisis_tags": ["salary_theft"],
+    "states_applicable": ["all"],
+    "keywords": ["recovery", "money", "employer", "wages"]
+  }
+]
